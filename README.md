@@ -27,28 +27,12 @@
 
 <br/>
 
-## 🚀 Top Logros & Impacto
+## 🚀 Proyectos Core & Impacto
 
-- **+US$100M en ventas incrementales** y gestión directa de P&L (+US$20M) liderando productos digitales en retail, banca/fintech y ecommerce.
-- **+4M de usuarios** impactados mediante estrategias de growth y escalabilidad.
-- **Top 5 Finalista Hackathon Colombia Tech Week:** Lanzamiento de MVP (Emprende IA) en 4 días, captando +2500 votos de clientes B2B.
-- **Colega.ia (Go-To-Market):** Estrategia de crecimiento orgánico y lanzamiento viral para plataforma de IA Generativa.
-
-<br/>
-
-## 💼 Experiencia Destacada
-
-**Product & Strategic Commercial Lead | Agora** *(Dic 2022 - Jun 2025)*
-Lideré la estrategia integral de crecimiento, monetización y rentabilidad de una unidad de negocio digital B2B/B2C, gestionando el ciclo completo de producto y el P&L.
-* **Impacto:** **+150%** sobre el objetivo de crecimiento anual, **+100M USD en ventas incrementales** por optimización de modelos de pricing, y +15% de retención de usuarios con estrategias de datos.
-
-**Product Manager | Klipso** *(Jul 2025 - Actualidad)*
-Diseño infraestructuras omnicanal impulsadas por **IA generativa y automatización**.
-* **Impacto:** Conversión acelerada en +30pp mediante Agentes Conversacionales IA (WhatsApp) y reducción de -80% en tareas operativas vía flujos Low-Code.
-* **Gobernanza IA:** Implementación de validación Human-in-the-loop y mitigación de alucinaciones.
-
-**Fundadora | Colega.ia** *(Oct 2025 - Actualidad)*
-* 🚀 Producto B2B impulsado por IA Generativa con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). [Ver Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
+* 🛒 **Plaza Vea CLI (Programa de Lealtad Retail):** Gran proyecto corporativo de digitalización y fidelización B2C. Gestión de **+4 Millones de usuarios**, logrando **+US$100M en ventas incrementales** mediante la optimización de modelos de pricing y administrando un P&L directo de +US$20M. *(Código y arquitectura principal en este perfil de GitHub).*
+* 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
+* 🏆 **Emprende IA (Top 5 Hackathon Colombia Tech Week):** MVP de plataforma modular AI + No-Code que automatiza marketing y ventas. Lanzado en solo 4 días, captando +2500 votos de clientes B2B. [Ver Proyecto](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/)
+* ⚡ **Klipso (Automatización IA):** Diseño de infraestructuras omnicanal (WhatsApp) con flujos Low-Code para clientes Fintech y E-commerce. **Impacto:** Aceleración de conversión en +30pp y reducción de -80% en tareas operativas.
 
 <br/>
 
@@ -57,12 +41,6 @@ Mi pasión por el producto me ha llevado a guiar activamente el ecosistema empre
 - 🎙️ **Mentora StartUPC:** Guía estratégica para startups tempranas en diseño de roadmap, modelo de negocio y validación de Product-Market Fit. [Ver Post](https://www.linkedin.com/posts/stephanie-castrofalcon_mentorcrew-startupc-mentoraeda-activity-7379200667825102848-yDGB)
 - 🎙️ **Mentora Hult Prize at UNI:** Asesoría a emprendedores universitarios de alto impacto. [Ver Post](https://www.linkedin.com/posts/stephanie-castrofalcon_hultprize-activity-7435146750526382081-Cnf1)
 - ⚖️ **Jurado Semifinal Emprende UNS 3G:** Evaluación de modelos de negocio, innovación y viabilidad técnica. [Ver Evento](https://www.linkedin.com/search/results/all/?keywords=uns%203g%20&origin=GLOBAL_SEARCH_HEADER)
-
-<br/>
-
-## ⭐ Proyectos de Hackathon & MVP
-
-* 🏆 **[Emprende IA](https://www.linkedin.com/in/stephanie-castrofalcon/overlay/Project/1059936410/treasury/?profileId=ACoAAB3Xoa4BPMbnH7avPaT3Ie_UOFjq0Rl0sW4)**: Plataforma modular AI + No-Code que automatiza marketing y ventas. *Top 5 en Hackathon Colombia Tech Week (>200 equipos).*
 
 <br/>
 
