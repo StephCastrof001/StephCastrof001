@@ -27,22 +27,28 @@
 
 <br/>
 
+## 🚀 Proyectos Core & Portafolio Técnico
+
+* 🛒 **Plaza Vea CLI (MCP Server for Retail):** Servidor MCP (Model Context Protocol) para retail VTEX que se integra con Claude Code / Cursor. Permite buscar productos, agregar al carrito, verificar stock por local y analizar gastos desde la terminal. Primera implementación: Plaza Vea (Perú). [Ver Repositorio](https://github.com/StephCastrof001/cli_plazavea1)
+* 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
+* 🏆 **Emprende IA (Top 5 Hackathon Colombia Tech Week):** MVP de plataforma modular AI + No-Code que automatiza marketing y ventas. Lanzado en solo 4 días, captando +2500 votos de clientes B2B. [Ver Proyecto](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/)
+
+<br/>
+
 ## 💼 Experiencia Destacada
+
+**Product Manager (IA Generativa & Automatización) | Klipso** *(Jul 2025 - Actualidad)*
+Diseño y opero infraestructuras digitales omnicanal impulsadas por IA generativa. Lidero el ciclo completo de producto (discovery a GTM), co-liderando con Tech Leads decisiones de arquitectura y escalabilidad.
+* **Agentes Conversacionales (IA):** Diseño vía WhatsApp integrando +5 fuentes de datos transversales. Impacto: Aceleración de conversión en **+30pp** y disponibilidad 24/7.
+* **Low-Code Automation:** Orquestación de flujos cross-funcionales, reduciendo en **-80%** las tareas manuales y operativas.
+* **Data & Growth:** Implementación de dashboards productivos en <6 semanas para 3 verticales y ejecución de estrategia GTM que generó **+50% en leads calificados** (trazabilidad CRM).
+* **Gobernanza IA:** Control estricto de alucinaciones, validación *human-in-the-loop* y monitoreo continuo de calidad.
 
 **Product & Strategic Commercial Lead | Agora (Ecosistema Intercorp)** *(Dic 2022 - Jun 2025)*
 Lidero la estrategia integral de crecimiento, monetización y rentabilidad de una unidad de negocio digital con **+4 Millones de usuarios**, gestionando todo el ciclo de producto (discovery, go-to-market, escalamiento) y el P&L. Mi enfoque combina expansión comercial B2B/B2C, optimización de revenue y liderazgo de squads multidisciplinarios.
 * **Impacto:** **+150%** sobre el objetivo de crecimiento anual.
 * **Revenue:** **+100M USD en ventas incrementales** por optimización de modelos de monetización y pricing dinámico.
 * **Growth:** **+15%** en retención de usuarios y **+25%** en tasa de actividad mensual, gracias a estrategias basadas en datos.
-
-<br/>
-
-## 🚀 Proyectos Core & Impacto
-
-* 🛒 **Plaza Vea CLI (MCP Server for Retail):** Servidor MCP (Model Context Protocol) para retail VTEX que se integra con Claude Code / Cursor. Permite buscar productos, agregar al carrito, verificar stock por local y analizar gastos desde la terminal. Primera implementación: Plaza Vea (Perú). [Ver Repositorio](https://github.com/StephCastrof001/cli_plazavea1)
-* 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
-* 🏆 **Emprende IA (Top 5 Hackathon Colombia Tech Week):** MVP de plataforma modular AI + No-Code que automatiza marketing y ventas. Lanzado en solo 4 días, captando +2500 votos de clientes B2B. [Ver Proyecto](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/)
-* ⚡ **Klipso (Automatización IA):** Diseño de infraestructuras omnicanal (WhatsApp) con flujos Low-Code para clientes Fintech y E-commerce. **Impacto:** Aceleración de conversión en +30pp y reducción de -80% en tareas operativas.
 
 <br/>
 
