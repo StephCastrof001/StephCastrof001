@@ -12,7 +12,6 @@
 
 ## 🛠️ Stack Técnico & Herramientas
 <p align="left">
-  <!-- Agregando herramientas de Data Analytics y Growth además de las de IA y Cloud -->
   <img src="https://img.shields.io/badge/Gen_AI_&_RAG-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -70,3 +69,11 @@ Mi pasión por el producto me ha llevado a guiar activamente el ecosistema empre
 ## 📝 Artículos & Publicaciones
 - 📌 **[Estrategia de Producto y Growth Management](https://www.linkedin.com/posts/stephanie-castrofalcon_growth-productmanagement-productstrategy-activity-7402475184097746944-P8gt)**
 - 📌 **[Construyendo MVPs y Validación Ágil](https://www.linkedin.com/posts/stephanie-castrofalcon_growth-productmanagement-mvp-activity-7402455965876252672-R2Np)**
+
+<br/>
+
+## 🎓 Certificaciones Destacadas
+- 📈 **Growth Marketing & Product Management** — *Colectivo23* [Ver Credencial](https://www.credential.net/f41b3318-04a2-453b-86a1-096436f0fac1#acc.26Oh1Exn)
+- 🧠 **Liderazgo de Equipos & Storytelling Estratégico** — *Laboratoria+*
+- 📊 **Análisis de Datos** — *UTEC (Universidad de Ingeniería y Tecnología)*
+- 🐍 **Data Analysis with Python** — *IBM*
