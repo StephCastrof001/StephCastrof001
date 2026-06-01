@@ -27,7 +27,7 @@
 
 <br/>
 
-## 💼 Experiencia Destacada & Impacto
+## 💼 Experiencia Destacada
 
 **Product & Strategic Commercial Lead | Agora (Ecosistema Intercorp)** *(Dic 2022 - Jun 2025)*
 Lidero la estrategia integral de crecimiento, monetización y rentabilidad de una unidad de negocio digital con **+4 Millones de usuarios**, gestionando todo el ciclo de producto (discovery, go-to-market, escalamiento) y el P&L. Mi enfoque combina expansión comercial B2B/B2C, optimización de revenue y liderazgo de squads multidisciplinarios.
@@ -35,20 +35,14 @@ Lidero la estrategia integral de crecimiento, monetización y rentabilidad de un
 * **Revenue:** **+100M USD en ventas incrementales** por optimización de modelos de monetización y pricing dinámico.
 * **Growth:** **+15%** en retención de usuarios y **+25%** en tasa de actividad mensual, gracias a estrategias basadas en datos.
 
-**Product Manager (IA Generativa) | Klipso** *(Jul 2025 - Actualidad)*
-Diseño infraestructuras omnicanal impulsadas por **IA generativa y automatización**.
-* **Impacto:** Conversión acelerada en +30pp mediante Agentes Conversacionales IA (WhatsApp) y reducción de -80% en tareas operativas vía flujos Low-Code.
-* **Gobernanza IA:** Implementación de validación Human-in-the-loop y mitigación de alucinaciones.
-
-**Fundadora & Product Lead | Colega.ia** *(Oct 2025 - Actualidad)*
-* 🚀 Producto B2B impulsado por IA Generativa con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico, logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
-
 <br/>
 
-## 🚀 Portafolio Técnico & Hackathons
+## 🚀 Proyectos Core & Impacto
 
-* 💻 **[Plaza Vea CLI](#):** Herramienta técnica de interfaz de línea de comandos (CLI) desarrollada para el ecosistema de Plaza Vea. Proyecto que demuestra mi capacidad técnica de "Builder" para construir y desplegar herramientas de software funcionales. *(Ver código en mis repositorios fijados).*
-* 🏆 **[Emprende IA (Top 5 Hackathon Colombia Tech Week)](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/):** MVP de plataforma modular AI + No-Code que automatiza marketing y ventas. Construido y lanzado en solo 4 días, captando +2500 votos B2B.
+* 🛒 **Plaza Vea CLI (Programa de Lealtad Retail):** Gran proyecto corporativo de digitalización y fidelización B2C. Gestión de **+4 Millones de usuarios**, logrando **+US$100M en ventas incrementales** mediante la optimización de modelos de pricing y administrando un P&L directo de +US$20M. *(Código y arquitectura principal en este perfil de GitHub).*
+* 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
+* 🏆 **Emprende IA (Top 5 Hackathon Colombia Tech Week):** MVP de plataforma modular AI + No-Code que automatiza marketing y ventas. Lanzado en solo 4 días, captando +2500 votos de clientes B2B. [Ver Proyecto](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/)
+* ⚡ **Klipso (Automatización IA):** Diseño de infraestructuras omnicanal (WhatsApp) con flujos Low-Code para clientes Fintech y E-commerce. **Impacto:** Aceleración de conversión en +30pp y reducción de -80% en tareas operativas.
 
 <br/>
 
