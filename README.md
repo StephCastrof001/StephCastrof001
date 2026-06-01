@@ -1,7 +1,7 @@
 <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80" alt="Product Manager Banner" style="border-radius: 10px;">
 
 <h1 align="center">¡Hola! Soy Stephanie Castro 👋</h1>
-<h3 align="center">Product Manager | Generative AI & Automation | Economista</h3>
+<h3 align="center">Product Manager IA | Digital Builder B2B & B2C | Strategy, Growth & Retail/Fintech (+4M usuarios)</h3>
 
 <p align="center">
   <!-- Contador de Visitas -->
@@ -43,10 +43,17 @@ Diseño y opero infraestructuras digitales y omnicanal impulsadas por **IA gener
 
 ## ⭐ Proyectos Clave (+25 proyectos B2B/B2C)
 
-* 🏆 **Emprende IA - Asistente Pymes (Top 5 Finalistas Hackathon Colombia Tech Week):** Co-lideré el desarrollo de una plataforma modular (AI + No-Code) que automatiza marketing y ventas. Ideamos, prototipamos y lanzamos la v1 en 4 días, implementando estrategias de growth hacking (referidos, waitlists) que captaron +2500 votos posicionándonos entre los 5 mejores de >200 equipos. Definimos el roadmap enfocado en resolver *pain points* comerciales B2B en LatAm. [Ver Proyecto en LinkedIn](https://www.linkedin.com/in/stephanie-castrofalcon/overlay/Project/1059936410/treasury/?profileId=ACoAAB3Xoa4BPMbnH7avPaT3Ie_UOFjq0Rl0sW4)
+* 🚀 **Colega.ia (Product Hunt Launch):** Producto impulsado por IA Generativa con motor de RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-to-Market, logrando un crecimiento explosivo tras su lanzamiento. [Sitio Web](https://colega.lat/) | [Ver en Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac) | [Lanzamiento Viral en LinkedIn](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR)
+* 🏆 **Emprende IA - Asistente Pymes (Top 5 Finalistas Hackathon Colombia Tech Week):** Co-lideré el desarrollo de una plataforma modular (AI + No-Code) que automatiza marketing y ventas. Ideamos, prototipamos y lanzamos la v1 en 4 días, implementando estrategias de growth hacking (referidos, waitlists) que captaron +2500 votos. [Proyecto Hackathon 1](https://www.linkedin.com/in/stephanie-castrofalcon/overlay/Project/1059936410/treasury/?profileId=ACoAAB3Xoa4BPMbnH7avPaT3Ie_UOFjq0Rl0sW4) | [Post Hackathon 2](https://www.linkedin.com/feed/update/urn:li:activity:7365830196588957696/)
 * 🤖 **Agentes Conversacionales (IA):** Lideré el diseño de agentes vía WhatsApp para Fintech, E-commerce y Servicios. **Impacto:** *Generación de hasta +30pp en conversión, escalando disponibilidad a 24/7.*
-* ⚙️ **Orquestación No-Code/Low-Code:** Automaticé flujos cross-funcionales. **Impacto:** *Reducción de hasta -80% en tareas manuales y administrativas.*
 * 📊 **Dashboards Estratégicos:** Implementación de tableros accionables. **Impacto:** *De 0 a producción en <6 semanas, gestionando +3 verticales de negocio.*
+
+<br/>
+
+## 📝 Reflexiones y Artículos sobre Producto
+Me apasiona compartir mis aprendizajes sobre la intersección entre producto, growth y tecnología:
+- 📌 **[Estrategia de Producto y Growth Management](https://www.linkedin.com/posts/stephanie-castrofalcon_growth-productmanagement-productstrategy-activity-7402475184097746944-P8gt)**
+- 📌 **[Construyendo MVPs y Validación Ágil](https://www.linkedin.com/posts/stephanie-castrofalcon_growth-productmanagement-mvp-activity-7402455965876252672-R2Np)**
 
 <br/>
 
@@ -62,9 +69,10 @@ Diseño y opero infraestructuras digitales y omnicanal impulsadas por **IA gener
 **Análisis de Datos, Automatización & Ops:**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/No/Low_Code-000000?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
-  <img src="https://img.shields.io/badge/Generative_AI-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen_AI_&_RAG-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
