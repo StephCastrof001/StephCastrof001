@@ -14,12 +14,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Gen_AI_&_RAG-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analytics-FF8A00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product_Analytics-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -29,7 +30,7 @@
 
 <br/>
 
-## 🚀 Proyectos Core & Portafolio Técnico
+## 🚀 Portafolio Técnico & Startups
 
 * 🛒 **Plaza Vea CLI (MCP Server for Retail):** Servidor MCP (Model Context Protocol) para retail VTEX que se integra con Claude Code / Cursor. Permite buscar productos, agregar al carrito, verificar stock por local y analizar gastos desde la terminal. Primera implementación: Plaza Vea (Perú). [Ver Repositorio](https://github.com/StephCastrof001/cli_plazavea1)
 * 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
@@ -37,7 +38,7 @@
 
 <br/>
 
-## 💼 Experiencia Destacada
+## 💼 Trayectoria Empresarial & Resultados Clave
 
 **Product Manager (IA Generativa & Automatización) | Klipso** *(Jul 2025 - Actualidad)*
 Diseño y opero infraestructuras digitales omnicanal impulsadas por IA generativa. Lidero el ciclo completo de producto (discovery a GTM), co-liderando con Tech Leads decisiones de arquitectura y escalabilidad.
