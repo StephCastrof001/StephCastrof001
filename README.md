@@ -55,9 +55,9 @@ Diseño infraestructuras omnicanal impulsadas por **IA generativa y automatizaci
 
 ## 🤝 Mentoría y Jurado en Startups
 Mi pasión por el producto me ha llevado a guiar activamente el ecosistema emprendedor y de innovación:
-- 🎙️ **Mentora StartUPC:** Guía estratégica para startups tempranas en diseño de roadmap, modelo de negocio y validación de Product-Market Fit.
+- 🎙️ **Mentora StartUPC:** Guía estratégica para startups tempranas en diseño de roadmap, modelo de negocio y validación de Product-Market Fit. [Ver Post](https://www.linkedin.com/posts/stephanie-castrofalcon_mentorcrew-startupc-mentoraeda-activity-7379200667825102848-yDGB)
 - 🎙️ **Mentora Hult Prize at UNI:** Asesoría a emprendedores universitarios de alto impacto. [Ver Post](https://www.linkedin.com/posts/stephanie-castrofalcon_hultprize-activity-7435146750526382081-Cnf1)
-- ⚖️ **Jurado Semifinal Emprende UNS 3G:** Evaluación de modelos de negocio, innovación y viabilidad técnica.
+- ⚖️ **Jurado Semifinal Emprende UNS 3G:** Evaluación de modelos de negocio, innovación y viabilidad técnica. [Ver Evento](https://www.linkedin.com/search/results/all/?keywords=uns%203g%20&origin=GLOBAL_SEARCH_HEADER)
 
 <br/>
 
