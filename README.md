@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/stephanie-castrofalcon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tu_correo@gmail.com">
@@ -24,24 +24,6 @@
 Soy **Economista especializada en liderar productos digitales**, alineados a los objetivos de negocio. He dirigido estrategias de crecimiento y rentabilidad en sectores como retail, banca/fintech y ecommerce, gestionando **+4M de usuarios** y generando **+US$100M en ventas incrementales**, con gestión directa del P&L (+US$20M).
 
 Con una trayectoria de **+50 proyectos ejecutados**, actualmente lidero la generación de productos digitales orientados a maximizar la eficiencia en ventas, comercial, growth y marketing. Mi enfoque parte del entendimiento profundo del negocio. Desde esa base, alineo a equipos y stakeholders alrededor de objetivos claros, combinando expansión comercial y liderazgo multidisciplinario *(Marketing, Growth, Producto, Data, Tecnología y UX)* con un uso estratégico de **IA Generativa y automatización** para priorizar las iniciativas que sostienen el crecimiento y la rentabilidad.
-
-<br/>
-
-## 🧠 Mi Enfoque en Productos de IA (GenAI Flow)
-
-Como PM Técnico, orquesto soluciones de Inteligencia Artificial asegurando que la tecnología resuelva problemas reales de negocio:
-
-```mermaid
-graph TD;
-    A[🎯 Necesidad del Negocio / Usuario] --> B(Product Discovery & UX)
-    B --> C{Orquestación IA / No-Code}
-    C -->|Definición de Casos| D[Arquitectura GenAI & LLMs]
-    C -->|Automatización| E[Flujos Low-Code]
-    D --> F[Validación Human-in-the-loop]
-    E --> F
-    F --> G((Lanzamiento & Go-to-Market))
-    G -->|Métricas: LTV, CAC, Retención| A
-```
 
 <br/>
 
@@ -61,10 +43,10 @@ Diseño y opero infraestructuras digitales y omnicanal impulsadas por **IA gener
 
 ## ⭐ Proyectos Clave (+25 proyectos B2B/B2C)
 
+* 🏆 **Emprende IA - Asistente Pymes (Top 5 Finalistas Hackathon Colombia Tech Week):** Co-lideré el desarrollo de una plataforma modular (AI + No-Code) que automatiza marketing y ventas. Ideamos, prototipamos y lanzamos la v1 en 4 días, implementando estrategias de growth hacking (referidos, waitlists) que captaron +2500 votos posicionándonos entre los 5 mejores de >200 equipos. Definimos el roadmap enfocado en resolver *pain points* comerciales B2B en LatAm. [Ver Proyecto en LinkedIn](https://www.linkedin.com/in/stephanie-castrofalcon/overlay/Project/1059936410/treasury/?profileId=ACoAAB3Xoa4BPMbnH7avPaT3Ie_UOFjq0Rl0sW4)
 * 🤖 **Agentes Conversacionales (IA):** Lideré el diseño de agentes vía WhatsApp para Fintech, E-commerce y Servicios. **Impacto:** *Generación de hasta +30pp en conversión, escalando disponibilidad a 24/7.*
 * ⚙️ **Orquestación No-Code/Low-Code:** Automaticé flujos cross-funcionales. **Impacto:** *Reducción de hasta -80% en tareas manuales y administrativas.*
 * 📊 **Dashboards Estratégicos:** Implementación de tableros accionables. **Impacto:** *De 0 a producción en <6 semanas, gestionando +3 verticales de negocio.*
-* 🎯 **Diagnósticos & Posicionamiento (GenAI):** Estrategias web con IA Generativa. **Impacto:** *Crecimiento de +50% en leads calificados con trazabilidad CRM.*
 
 <br/>
 
