@@ -33,7 +33,7 @@
 
 <br/>
 
-## 🚀 Portafolio Técnico & Startups
+## 🚀 Portafolio Técnico & Side Projects
 
 * 🛒 **Plaza Vea CLI (MCP Server for Retail):** Servidor MCP (Model Context Protocol) para retail VTEX que se integra con Claude Code / Cursor. Permite buscar productos, agregar al carrito, verificar stock por local y analizar gastos desde la terminal. Primera implementación: Plaza Vea (Perú). [Ver Repositorio](https://github.com/StephCastrof001/cli_plazavea1)
 * 🚀 **Colega.ia (B2B IA Generativa):** Producto impulsado por IA con motor RAG (Google Gemini) y arquitectura escalable (Supabase/PostgreSQL). Lideré la estrategia de Go-To-Market (GTM) y crecimiento orgánico logrando un lanzamiento viral. [Lanzamiento Viral](https://www.linkedin.com/posts/stephanie-castrofalcon_n8n-claude-antigravity-activity-7434648966958325760-gYkR) | [Product Hunt](https://www.producthunt.com/products/colega-ia/launches/colega-iac)
