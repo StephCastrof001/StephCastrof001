@@ -1,5 +1,5 @@
 <h1 align="center">Stephanie Castro 👋</h1>
-<h3 align="center">Product Manager IA | Digital Builder B2B & B2C</h3>
+<h3 align="center">AI Product Manager | Digital Builder B2B & B2C</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/stephanie-castrofalcon" target="_blank">
